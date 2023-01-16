@@ -4,10 +4,10 @@
 # In[12]:
 
 
-!pip install pandas
-!pip install numpy
-!pip install sklearn
-!pip install pickle
+# !pip install pandas
+# !pip install numpy
+# !pip install sklearn
+# !pip install pickle
 
 # get_ipython().system('pip install pandas')
 # get_ipython().system('pip install numpy')
