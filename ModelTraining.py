@@ -11,7 +11,6 @@ get_ipython().system('pip install pickle')
 
 
 # In[1]:
-pip install pandas
 
 import pandas as pd
 import numpy as np
