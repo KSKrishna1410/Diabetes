@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+RUN pip install -r requirements.txt
 
 import pandas as pd
 import numpy as np
