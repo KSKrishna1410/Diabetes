@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[12]:
+
+
+get_ipython().system('pip install pandas')
+get_ipython().system('pip install numpy')
+get_ipython().system('pip install sklearn ')
+get_ipython().system('pip install pickle')
+
+
 # In[1]:
 
 
